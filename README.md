@@ -8,14 +8,6 @@
 	<a href='https://profile.intra.42.fr/' target="_blank"><img alt='42' src='https://img.shields.io/badge/Warsaw-100000?style=flat-square&logo=42&logoColor=white&labelColor=000000&color=000000'/></a>
 </p>
 
-<p align="center">
-	<a href="#about">About</a> •
-	<a href="#how-to-use">How to use</a> •
-	<a href="#mandatory">Mandatory</a> •
-	<a href="#bonus">Bonus</a> •
-	<a href="#norminette">Norminette</a> •
-	<a href="#license">License</a>
-</p>
 
 ## ABOUT
 This project taught me how to read from a file descriptor and use static variables. This function retrieves a single line from a specified file descriptor. When called in a loop, get_next_line returns all the contents of the file, one line at a time until the end of the file is reached. Additionally, this function can be compiled with any buffer size specified.
